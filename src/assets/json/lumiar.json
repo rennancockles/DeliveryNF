@@ -3,18 +3,21 @@
         "name": "Atrium",
         "phone": "(22) 9886-9012",
         "instagram": "atriumlumiar",
-        "site": "www.atriumlumiar.com.br"
+        "site": "www.atriumlumiar.com.br",
+        "categorias": []
     },
     {
         "name": "Origem Preservada",
         "phone": "(22) 99716-3134",
         "instagram": "origempreservada",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Espetin",
         "phone": "(22) 99733-3448",
         "instagram": "espetinlumiar",
-        "site": ""
+        "site": "",
+        "categorias": []
     }
 ]

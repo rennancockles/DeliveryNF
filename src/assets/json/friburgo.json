@@ -3,156 +3,203 @@
         "name": "Pride and Joy Hamburgueria",
         "phone": "(22) 98148-2610",
         "instagram": "prideandjoyhamburgueria",
-        "site": "www.prideandjoyhamburgueria.com"
+        "site": "www.prideandjoyhamburgueria.com",
+        "categorias": ["hamburgueria"]
     },
     {
         "name": "Curadoria",
         "phone": "(22) 99967-8714",
         "instagram": "curadoria.art",
-        "site": "fb.com/curadoria.art"
+        "site": "fb.com/curadoria.art",
+        "categorias": []
     },
     {
         "name": "Frango na Brasa",
         "phone": "(22) 99930-1844",
         "instagram": "frangonabrasafriburgo",
-        "site": "www.frangonabrasafriburgo.com.br"
+        "site": "www.frangonabrasafriburgo.com.br",
+        "categorias": []
     },
     {
         "name": "Deck Resto",
         "phone": "(22) 99978-3593",
         "instagram": "deckresto",
-        "site": "www.deckresto.com/cardapio"
+        "site": "www.deckresto.com/cardapio",
+        "categorias": []
     },
     {
         "name": "Yakisoba Express",
         "phone": "(22) 98806-3167",
         "instagram": "yakisobaexpressnf",
-        "site": "www.yakisobaexpress.com.br"
+        "site": "www.yakisobaexpress.com.br",
+        "categorias": ["japonês"]
     },
     {
         "name": "Frifood Delivery",
         "phone": "(22) 99920-1797",
         "instagram": "frifooddelivery",
-        "site": "www.frifood.com.br"
+        "site": "www.frifood.com.br",
+        "categorias": []
     },
     {
         "name": "Armazém Fit",
         "phone": "(22) 99977-5814",
         "instagram": "armazemfitstore.novafriburgo",
-        "site": "www.armazemfitstore.com.br"
+        "site": "www.armazemfitstore.com.br",
+        "categorias": []
     },
     {
         "name": "Poivre Gourmet",
         "phone": "(22) 2523-9578",
         "instagram": "poivregourmet",
-        "site": ""
+        "site": "",
+        "categorias": ["restaurante"]
     },
     {
         "name": "Sushiban",
         "phone": "(22) 99219-6151",
         "instagram": "sushibanfriburgo",
-        "site": ""
+        "site": "",
+        "categorias": ["japonês"]
     },
     {
         "name": "Choperia Show de Bola",
         "phone": "(22) 3512-1400",
         "instagram": "choperiashowdebola",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Restaurante Maravilha",
         "phone": "(22) 2521-2030",
         "instagram": "restaurantemaravilha",
-        "site": ""
+        "site": "",
+        "categorias": ["restaurante"]
     },
     {
-        "name": "Buteco em casa petiscos",
+        "name": "Buteco em Casa Petiscos",
         "phone": "(22) 99707-1178",
         "instagram": "butecoemcasapetiscos",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Restaurante Dom João",
         "phone": "(22) 99942-1333",
         "instagram": "",
-        "site": ""
+        "site": "",
+        "categorias": ["restaurante"]
     },
     {
-        "name": "O bode expiatório",
+        "name": "O Bode Expiatório",
         "phone": "(22) 2523-6203",
         "instagram": "obodeexpiatorio",
-        "site": ""
+        "site": "",
+        "categorias": ["restaurante"]
     },
     {
         "name": "Restaurante Excalibur",
         "phone": "(22) 2522-6774",
         "instagram": "excalibur.friburgo",
-        "site": ""
+        "site": "",
+        "categorias": ["restaurante"]
     },
     {
         "name": "Mesiano Bistrô",
         "phone": "(21) 97949-6078",
         "instagram": "mesianobistro",
-        "site": "fb.com/mesianobistrocafe"
+        "site": "fb.com/mesianobistrocafe",
+        "categorias": []
     },
     {
         "name": "Gigi",
         "phone": "(22) 99233-9210",
         "instagram": "gigidoprado",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Confeitaria Baião",
         "phone": "(22) 99293-6844",
         "instagram": "baiaoconfeitaria",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Panino",
         "phone": "(22) 2522-0508",
         "instagram": "confeitariapanino",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Nobless Cacau Chocolataria",
         "phone": "(22) 99213-2070",
         "instagram": "noblesscacauchocolataria",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "San Sushi",
         "phone": "(22) 99219-0999",
         "instagram": "sansushifriburgo",
-        "site": ""
+        "site": "",
+        "categorias": ["japonês"]
     },
     {
         "name": "O Peixão",
         "phone": "(22) 99209-0890",
         "instagram": "opeixaobarerestaurante",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Viva Rô",
         "phone": "(22) 99956-7792",
         "instagram": "restaurantevivaro",
-        "site": "www.vivaro.com.br"
+        "site": "www.vivaro.com.br",
+        "categorias": []
     },
     {
         "name": "Armazém Degust",
         "phone": "(22) 99754-0811",
         "instagram": "armazemdegust",
-        "site": ""
+        "site": "",
+        "categorias": []
     },
     {
         "name": "Trilhas do Araçari",
         "phone": "(22) 99749-6357",
         "instagram": "trilhasdoaracari",
-        "site": "www.trilhasdoracari.com"
+        "site": "www.trilhasdoracari.com",
+        "categorias": []
     },
     {
         "name": "Empório Mió de Bão",
         "phone": "(22) 99907-2906",
         "instagram": "joanadarcabrahao",
-        "site": ""
+        "site": "",
+        "categorias": []
+    },
+    {
+        "name": "Cervejaria Alpendorf",
+        "phone": "(22) 99243-0824",
+        "instagram": "",
+        "site": "",
+        "categorias": ["cervejaria"]
+    },
+    {
+        "name": "Cervejaria Pontal",
+        "phone": "(22) 2523-1387",
+        "instagram": "cervejariapontal",
+        "site": "",
+        "categorias": ["cervejaria"]
+    },
+    {
+        "name": "Cervejaria Angels & Devils",
+        "phone": "(22) 99202-5767",
+        "instagram": "adcraftbeer",
+        "site": "www.cervejariaad.com.br",
+        "categorias": ["cervejaria"]
     }
 ]
