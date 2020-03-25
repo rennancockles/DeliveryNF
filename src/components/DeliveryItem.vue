@@ -21,7 +21,7 @@
                     </div>
 
                     <div v-if="item.site" class="my-4 subtitle-1 delivery-info">
-                        <a class="site" target="_blank" rel="noopener noreferrer" :href="item.site">
+                        <a class="site" target="_blank" rel="noopener noreferrer" :href="`http://${item.site}`">
                             <v-icon :color="iconColor">mdi-earth</v-icon>
                             {{ item.site }}
                         </a>

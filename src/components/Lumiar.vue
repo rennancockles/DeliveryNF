@@ -11,11 +11,11 @@
 </template>
 
 <script>
-import deliveries from '@/assets/json/deliveries.json'
+import deliveries from '@/assets/json/lumiar.json'
 import DeliveryItem from './DeliveryItem'
 
 export default {
-    name: 'Deliveries',
+    name: 'Lumiar',
     components: {
         DeliveryItem
     },
@@ -25,7 +25,7 @@ export default {
         }
     },
     created () {
-        this.deliveries = deliveries
+        this.deliveries = deliveries.sort((a, b) => a.name < b.name ? -1 : (a.name > b.name ? 1 : 0))
     }
 }
 </script>

@@ -6,8 +6,10 @@ import VueAnalytics from 'vue-analytics'
 
 Vue.config.productionTip = false
 
+console.log(process.env.NODE_ENV)
+
 Vue.use(VueAnalytics, {
-    id: 'UA-xxxxxxxxx-x',
+    id: 'UA-161791729-1',
     router
 })
 

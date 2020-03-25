@@ -37,7 +37,7 @@
                 Delivery NF
             </v-toolbar-title>
 
-            <v-toolbar-items class="hidden-xs-only">
+            <v-toolbar-items class="hidden-xs-only mx-auto">
                 <v-btn
                 class="primary"
                 v-for="item in menuItems"
@@ -63,14 +63,24 @@ export default {
             drawer: null,
             menuItems: [
                 {
-                    link: '/deliveries',
+                    link: '/friburgo',
                     icon: 'mdi-moped',
-                    title: 'Deliveries'
+                    title: 'Friburgo'
                 },
                 {
-                    link: '/sobre',
+                    link: '/lumiar',
+                    icon: 'mdi-moped',
+                    title: 'Lumiar'
+                },
+                {
+                    link: '/padarias-mercados',
+                    icon: 'mdi-moped',
+                    title: 'Padarias e Mercados'
+                },
+                {
+                    link: '/contato',
                     icon: 'mdi-information-outline',
-                    title: 'Sobre'
+                    title: 'Contato'
                 }
             ]
         }
