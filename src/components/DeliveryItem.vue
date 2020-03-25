@@ -47,7 +47,7 @@ export default {
 
 <style lang="scss">
 .delivery-info, .delivery-info > a {
-    color: #c8c8c8;
+    color: #c8c8c8 !important;
     text-decoration: none;
 }
 </style>
