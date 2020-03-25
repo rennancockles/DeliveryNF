@@ -34,7 +34,7 @@ export default {
     name: 'Contato',
     data () {
         return {
-            email: 'deliverynf@r3ck.com.br'
+            email: 'deliverynf0@gmail.com'
         }
     }
 }
