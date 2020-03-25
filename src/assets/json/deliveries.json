@@ -1,14 +1,44 @@
 [
     {
-        "name": "New Sushi",
-        "phone": "(22) 99876-5432",
-        "site": "www.newsushi.com.br",
-        "instagram": "newsushi"
+        "name": "Pride and Joy Hamburgueria",
+        "phone": "(22) 98148-2610",
+        "site": "http://www.prideandjoyhamburgueria.com",
+        "instagram": "prideandjoyhamburgueria"
     },
     {
-        "name": "Oishi",
-        "phone": "(22) 1234-5678",
-        "site": "www.oishi.com.br",
-        "instagram": "japa_oishi"
+        "name": "Curadoria",
+        "phone": "(22) 99967-8714",
+        "site": "",
+        "instagram": "curadoria.art"
+    },
+    {
+        "name": "Frango na Brasa",
+        "phone": "(22) 99930-1844",
+        "site": "http://www.frangonabrasafriburgo.com.br",
+        "instagram": "frangonabrasafriburgo"
+    },
+    {
+        "name": "Deck Resto",
+        "phone": "(22) 99978-3593",
+        "site": "",
+        "instagram": "deckresto"
+    },
+    {
+        "name": "Yakisoba Express",
+        "phone": "(22) 98806-3167",
+        "site": "",
+        "instagram": "yakisobaexpressnf"
+    },
+    {
+        "name": "Frifood Delivery",
+        "phone": "(22) 99920-1797",
+        "site": "",
+        "instagram": "frifooddelivery"
+    },
+    {
+        "name": "Armazém Fit",
+        "phone": "(22) 99977-5814",
+        "site": "",
+        "instagram": "armazemfitstore.novafriburgo"
     }
 ]

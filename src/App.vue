@@ -1,45 +1,32 @@
 <template>
     <v-app>
-        <!-- <toolbar></toolbar> -->
+        <Toolbar></Toolbar>
 
         <v-content class="default">
             <v-container grid-list-xl>
+                <img class="background" src="@/assets/bg/bg.jpg" alt="Cão Sentado">
                 <router-view></router-view>
             </v-container>
         </v-content>
-
-        <v-footer app>
-            <div>{{ version }}</div>
-            <v-spacer></v-spacer>
-            <div>R3Ck &copy; {{ currentYear }}</div>
-        </v-footer>
     </v-app>
 </template>
 
 <script>
-import deliveries from '@/assets/json/deliveries.json'
-// import Toolbar from '@@/nav/Toolbar'
+import Toolbar from '@@/Toolbar'
 
 export default {
     name: 'App',
     components: {
-        // Toolbar
-    },
-    data: () => ({
-    //
-    }),
-    computed: {
-        currentYear () {
-            return new Date().getFullYear()
-        },
-        version () {
-            return 0.1
-        }
-    },
-    methods: {
-    },
-    created () {
-        console.log(deliveries)
+        Toolbar
     }
 }
-</script>
+</script><style lang="scss">
+img.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+</style>
