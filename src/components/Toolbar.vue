@@ -65,7 +65,7 @@ export default {
                 {
                     link: '/friburgo',
                     icon: 'mdi-moped',
-                    title: 'Friburgo'
+                    title: 'N. Friburgo'
                 },
                 {
                     link: '/lumiar',
