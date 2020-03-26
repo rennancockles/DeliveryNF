@@ -6,7 +6,7 @@
             v-model="query"
             background-color="#183757"
             prepend-inner-icon="mdi-magnify"
-            :suffix="`${deliveriesFiltered.length} resultado${deliveriesFiltered.length !== 1 ? 's' : ''} encontrado${deliveriesFiltered.length !== 1 ? 's' : ''}`"
+            :suffix="`${deliveriesFiltered.length} resultado${deliveriesFiltered.length !== 1 ? 's' : ''}`"
             outlined
             solo
             clearable
