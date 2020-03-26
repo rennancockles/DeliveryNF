@@ -259,25 +259,39 @@
         "categorias": ["Diversos"]
     },
     {
+        "name": "Serra Beer",
+        "phone": "(22) 99831-8391",
+        "instagram": "serra_beer",
+        "site": "fb.com/SerraBeerDistribuidora",
+        "categorias": ["Bebidas"]
+    },
+    {
+        "name": "Biritoteca",
+        "phone": "(22) 99776-7020",
+        "instagram": "biritoteca",
+        "site": "",
+        "categorias": ["Bebidas"]
+    },
+    {
         "name": "Cervejaria Alpendorf",
         "phone": "(22) 99243-0824",
         "instagram": "",
         "site": "",
-        "categorias": ["Cervejaria"]
+        "categorias": ["Bebidas"]
     },
     {
         "name": "Cervejaria Pontal",
         "phone": "(22) 2523-1387",
         "instagram": "cervejariapontal",
         "site": "",
-        "categorias": ["Cervejaria"]
+        "categorias": ["Bebidas"]
     },
     {
         "name": "Cervejaria Angels & Devils",
         "phone": "(22) 99202-5767",
         "instagram": "adcraftbeer",
         "site": "www.cervejariaad.com.br",
-        "categorias": ["Cervejaria"]
+        "categorias": ["Bebidas"]
     },
     {
         "name": "Flash Boys",
@@ -318,13 +332,6 @@
         "name": "Mundo Pet",
         "phone": "(22) 98103-5151",
         "instagram": "mundopetfriburgo",
-        "site": "",
-        "categorias": ["Pet"]
-    },
-    {
-        "name": "Lua Lilás",
-        "phone": "(22) 99777-8868",
-        "instagram": "lualilaspet",
         "site": "",
         "categorias": ["Pet"]
     },
