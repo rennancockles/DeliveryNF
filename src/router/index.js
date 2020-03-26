@@ -9,15 +9,11 @@ Vue.use(VueRouter)
 const routes = [
     {
         path: '*',
-        redirect: { name: 'friburgo' }
+        redirect: { name: 'index' }
     },
     {
         path: '/',
-        redirect: { name: 'friburgo' }
-    },
-    {
-        path: '/friburgo',
-        name: 'friburgo',
+        name: 'index',
         component: Friburgo
     },
     {
