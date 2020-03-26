@@ -1,6 +1,6 @@
 <template>
     <v-row>
-        <v-col cols="12">
+        <v-col cols="12" class="h-60">
             <v-text-field
             label="Busca"
             v-model="query"
@@ -13,6 +13,18 @@
             shaped
             dark
             ></v-text-field>
+        </v-col>
+        <v-col cols="12">
+            <v-select
+            label="Categoria"
+            :items="categorias"
+            v-model="searchCategoria"
+            background-color="#183757"
+            outlined
+            solo
+            clearable
+            dark
+            ></v-select>
         </v-col>
 
         <v-col
@@ -27,6 +39,7 @@
 
 <script>
 import DeliveryItem from './DeliveryItem'
+import categorias from '@/assets/json/categorias.json'
 
 export default {
     name: 'Delivery',
@@ -37,12 +50,14 @@ export default {
     data () {
         return {
             query: '',
-            deliveries: []
+            searchCategoria: '',
+            deliveries: [],
+            categorias: []
         }
     },
     computed: {
         deliveriesFiltered () {
-            return this.deliveries.filter(deli => this.isValidQuery(deli.name))
+            return this.deliveries.filter(deli => this.isValidQuery(deli.name) && (!this.searchCategoria || deli.categorias.includes(this.searchCategoria)))
         }
     },
     methods: {
@@ -56,7 +71,14 @@ export default {
         }
     },
     created () {
+        this.categorias = categorias.sort((a, b) => a < b ? -1 : (a > b ? 1 : 0))
         this.deliveries = this.items.sort((a, b) => a.name < b.name ? -1 : (a.name > b.name ? 1 : 0))
     }
 }
 </script>
+
+<style scoped>
+.h-60 {
+    height: 70px !important;
+}
+</style>

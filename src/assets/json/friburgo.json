@@ -4,42 +4,42 @@
         "phone": "(22) 98148-2610",
         "instagram": "prideandjoyhamburgueria",
         "site": "www.prideandjoyhamburgueria.com",
-        "categorias": ["hamburgueria"]
+        "categorias": ["Hamburgueria"]
     },
     {
         "name": "Curadoria",
         "phone": "(22) 99967-8714",
         "instagram": "curadoria.art",
         "site": "fb.com/curadoria.art",
-        "categorias": []
+        "categorias": ["Restaurante", "Hamburgueria"]
     },
     {
         "name": "Frango na Brasa",
         "phone": "(22) 99930-1844",
         "instagram": "frangonabrasafriburgo",
         "site": "www.frangonabrasafriburgo.com.br",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Deck Resto",
         "phone": "(22) 99978-3593",
         "instagram": "deckresto",
         "site": "www.deckresto.com/cardapio",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Yakisoba Express",
         "phone": "(22) 98806-3167",
         "instagram": "yakisobaexpressnf",
         "site": "www.yakisobaexpress.com.br",
-        "categorias": ["japonês"]
+        "categorias": ["Japonês"]
     },
     {
         "name": "Frifood Delivery",
         "phone": "(22) 99920-1797",
         "instagram": "frifooddelivery",
         "site": "www.frifood.com.br",
-        "categorias": []
+        "categorias": ["Japonês", "Restaurante", "Hamburgueria", "Pizzaria"]
     },
     {
         "name": "Armazém Fit",
@@ -53,66 +53,66 @@
         "phone": "(22) 2523-9578",
         "instagram": "poivregourmet",
         "site": "",
-        "categorias": ["restaurante"]
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Sushiban",
         "phone": "(22) 99219-6151",
         "instagram": "sushibanfriburgo",
         "site": "",
-        "categorias": ["japonês"]
+        "categorias": ["Japonês"]
     },
     {
         "name": "Choperia Show de Bola",
         "phone": "(22) 3512-1400",
         "instagram": "choperiashowdebola",
         "site": "",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Restaurante Maravilha",
         "phone": "(22) 2521-2030",
         "instagram": "restaurantemaravilha",
         "site": "",
-        "categorias": ["restaurante"]
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Buteco em Casa Petiscos",
         "phone": "(22) 99707-1178",
         "instagram": "butecoemcasapetiscos",
         "site": "",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Restaurante Dom João",
         "phone": "(22) 99942-1333",
-        "instagram": "",
+        "instagram": "restaurantedomjoao",
         "site": "",
-        "categorias": ["restaurante"]
+        "categorias": ["Restaurante"]
     },
     {
         "name": "O Bode Expiatório",
         "phone": "(22) 2523-6203",
         "instagram": "obodeexpiatorio",
         "site": "",
-        "categorias": ["restaurante"]
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Restaurante Excalibur",
         "phone": "(22) 2522-6774",
         "instagram": "excalibur.friburgo",
         "site": "",
-        "categorias": ["restaurante"]
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Mesiano Bistrô",
         "phone": "(21) 97949-6078",
         "instagram": "mesianobistro",
         "site": "fb.com/mesianobistrocafe",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
-        "name": "Gigi",
+        "name": "Gigi Do Prado",
         "phone": "(22) 99233-9210",
         "instagram": "gigidoprado",
         "site": "",
@@ -144,35 +144,35 @@
         "phone": "(22) 99219-0999",
         "instagram": "sansushifriburgo",
         "site": "",
-        "categorias": ["japonês"]
+        "categorias": ["Japonês"]
     },
     {
         "name": "O Peixão",
         "phone": "(22) 99209-0890",
         "instagram": "opeixaobarerestaurante",
         "site": "",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Viva Rô",
         "phone": "(22) 99956-7792",
         "instagram": "restaurantevivaro",
         "site": "www.vivaro.com.br",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Armazém Degust",
         "phone": "(22) 99754-0811",
         "instagram": "armazemdegust",
         "site": "",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Trilhas do Araçari",
         "phone": "(22) 99749-6357",
         "instagram": "trilhasdoaracari",
         "site": "www.trilhasdoracari.com",
-        "categorias": []
+        "categorias": ["Restaurante"]
     },
     {
         "name": "Empório Mió de Bão",
@@ -182,24 +182,178 @@
         "categorias": []
     },
     {
+        "name": "Superpão",
+        "phone": "(22) 99285-4762",
+        "instagram": "padariasuperpao",
+        "site": "www.superpao.com",
+        "categorias": ["Padaria"]
+    },
+    {
+        "name": "Dona Emília",
+        "phone": "(22) 99772-5985",
+        "instagram": "donaemiliapadaria",
+        "site": "www.donaemiliapadaria.com.br",
+        "categorias": ["Padaria"]
+    },
+    {
+        "name": "Novamix",
+        "phone": "(22) 99202-8651",
+        "instagram": "novamixfriburgo",
+        "site": "fb.com/novamixnovafriburgo",
+        "categorias": ["Diversos"]
+    },
+    {
+        "name": "Armazém Manjericão",
+        "phone": "(22) 99935-2905",
+        "instagram": "armazemmanjericao",
+        "site": "www.armazemmanjericao.com",
+        "categorias": ["Diversos"]
+    },
+    {
+        "name": "Armazém Bem Estar",
+        "phone": "(22) 99833-2005",
+        "instagram": "armazembemestarnovafriburgo",
+        "site": "",
+        "categorias": ["Diversos"]
+    },
+    {
+        "name": "R&D Boutique de Carnes",
+        "phone": "(22) 2526-4385",
+        "instagram": "rdboutiquedecarnes",
+        "site": "",
+        "categorias": ["Carnes"]
+    },
+    {
+        "name": "Império das Carnes",
+        "phone": "(22) 2523-8885",
+        "instagram": "imperio_dascarnes",
+        "site": "",
+        "categorias": ["Carnes"]
+    },
+    {
+        "name": "Grão da Serra",
+        "phone": "(22) 99225-4110",
+        "instagram": "graodaserra",
+        "site": "fb.com/SupermercadoGraodaSerra",
+        "categorias": ["Mercado"]
+    },
+    {
+        "name": "Casa Friburgo",
+        "phone": "(22) 99225-5868",
+        "instagram": "casa_friburgo",
+        "site": "www.casafriburgo.com.br",
+        "categorias": ["Mercado"]
+    },
+    {
+        "name": "Nosso Armazém",
+        "phone": "(22) 99211-0439",
+        "instagram": "armazemnosso",
+        "site": "",
+        "categorias": ["Diversos"]
+    },
+    {
+        "name": "São Lourenço Verduras",
+        "phone": "(22) 98127-8707",
+        "instagram": "",
+        "site": "",
+        "categorias": ["Diversos"]
+    },
+    {
         "name": "Cervejaria Alpendorf",
         "phone": "(22) 99243-0824",
         "instagram": "",
         "site": "",
-        "categorias": ["cervejaria"]
+        "categorias": ["Cervejaria"]
     },
     {
         "name": "Cervejaria Pontal",
         "phone": "(22) 2523-1387",
         "instagram": "cervejariapontal",
         "site": "",
-        "categorias": ["cervejaria"]
+        "categorias": ["Cervejaria"]
     },
     {
         "name": "Cervejaria Angels & Devils",
         "phone": "(22) 99202-5767",
         "instagram": "adcraftbeer",
         "site": "www.cervejariaad.com.br",
-        "categorias": ["cervejaria"]
+        "categorias": ["Cervejaria"]
+    },
+    {
+        "name": "Flash Boys",
+        "phone": "(22) 2533-2224",
+        "instagram": "",
+        "site": "fb.com/flashboys2013",
+        "categorias": ["Motoboy"]
+    },
+    {
+        "name": "Nova Boys",
+        "phone": "(22) 2523-4141",
+        "instagram": "",
+        "site": "fb.com/novaboys24hs",
+        "categorias": ["Motoboy"]
+    },
+    {
+        "name": "Xuxa Motoboy",
+        "phone": "(22) 99980-8220",
+        "instagram": "",
+        "site": "",
+        "categorias": ["Motoboy"]
+    },
+    {
+        "name": "Zé Motoboy",
+        "phone": "(22) 99285-7336",
+        "instagram": "",
+        "site": "",
+        "categorias": ["Motoboy"]
+    },
+    {
+        "name": "Senhor Pet",
+        "phone": "(22) 99740-3575",
+        "instagram": "senhor.pet",
+        "site": "",
+        "categorias": ["Pet"]
+    },
+    {
+        "name": "Mundo Pet",
+        "phone": "(22) 98103-5151",
+        "instagram": "mundopetfriburgo",
+        "site": "",
+        "categorias": ["Pet"]
+    },
+    {
+        "name": "Lua Lilás",
+        "phone": "(22) 99777-8868",
+        "instagram": "lualilaspet",
+        "site": "",
+        "categorias": ["Pet"]
+    },
+    {
+        "name": "Alecrim",
+        "phone": "(22) 2522-8076",
+        "instagram": "alecrimpizza",
+        "site": "alecrimpizzaria.com.br",
+        "categorias": ["Pizzaria"]
+    },
+    {
+        "name": "Drogaria Viva Mais",
+        "phone": "(22) 99714-1100",
+        "instagram": "",
+        "site": "",
+        "categorias": ["Farmácia"]
+    },
+    {
+        "name": "Drogaria Sucesso",
+        "phone": "(22) 99891-5216",
+        "instagram": "",
+        "site": "",
+        "categorias": ["Farmácia"]
+    },
+    {
+        "name": "Farmácia Santo Antônio",
+        "phone": "(22) 99732-5713",
+        "instagram": "",
+        "site": "",
+        "categorias": ["Farmácia"]
     }
 ]

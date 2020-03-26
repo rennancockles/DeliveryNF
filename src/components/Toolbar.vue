@@ -34,10 +34,14 @@
             </v-avatar>
 
             <v-toolbar-title>
-                Delivery NF
+                <router-link tag="a" class="home" :to="{ path: '/' }">
+                    Delivery NF
+                </router-link>
             </v-toolbar-title>
 
-            <v-toolbar-items class="hidden-xs-only mx-auto">
+            <v-spacer></v-spacer>
+
+            <v-toolbar-items class="hidden-xs-only">
                 <v-btn
                 class="primary"
                 v-for="item in menuItems"
@@ -62,21 +66,6 @@ export default {
         return {
             drawer: null,
             menuItems: [
-                {
-                    link: '/friburgo',
-                    icon: 'mdi-moped',
-                    title: 'N. Friburgo'
-                },
-                {
-                    link: '/lumiar',
-                    icon: 'mdi-moped',
-                    title: 'Lumiar'
-                },
-                {
-                    link: '/padarias-mercados',
-                    icon: 'mdi-moped',
-                    title: 'Padarias e Mercados'
-                },
                 {
                     link: '/contato',
                     icon: 'mdi-information-outline',
