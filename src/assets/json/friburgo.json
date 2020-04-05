@@ -322,6 +322,13 @@
         "categorias": ["Motoboy"]
     },
     {
+        "name": "MEx Entregas",
+        "phone": "(22) 99712-9036",
+        "instagram": "",
+        "site": "",
+        "categorias": ["Motoboy"]
+    },
+    {
         "name": "Senhor Pet",
         "phone": "(22) 99740-3575",
         "instagram": "senhor.pet",
@@ -362,5 +369,19 @@
         "instagram": "",
         "site": "",
         "categorias": ["Farmácia"]
+    },
+    {
+        "name": "Nagrelha",
+        "phone": "(22) 99763-1822",
+        "instagram": "nagrelhafriburgo",
+        "site": "fb.com/nagrelhafriburgo",
+        "categorias": ["Hamburgueria"]
+    },
+    {
+        "name": "Choupana Grill",
+        "phone": "(22) 98103-6147",
+        "instagram": "choupanagrill",
+        "site": "fb.com/choupana.friburgo",
+        "categorias": ["Restaurante"]
     }
 ]
