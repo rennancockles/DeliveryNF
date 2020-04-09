@@ -383,5 +383,19 @@
         "instagram": "choupanagrill",
         "site": "fb.com/choupana.friburgo",
         "categorias": ["Restaurante"]
+    },
+    {
+        "name": "Beirute",
+        "phone": "(22) 99243-0011",
+        "instagram": "beirutedelivery",
+        "site": "beirutedelivery.com",
+        "categorias": ["Árabe"]
+    },
+    {
+        "name": "Rraj's",
+        "phone": "(22) 98168-8585",
+        "instagram": "rrajsdelivery",
+        "site": "",
+        "categorias": ["Árabe"]
     }
 ]
